@@ -1,0 +1,4 @@
+8993.0	indicator_(action)	(action [quarter-sized]: placed above a symbol to create (1) the infinitive form of a verb, and (2) the present tense of a verb)  - Character (indicator)	operator (handling, infinitiv)
+8994.0	indicator_(active)	(action indicator [modified], turned on its side and pointing forward: placed above a symbol to emphasize that something is acting on something else. The symbol is logically related to about.)  - Character (indicator)	operator (handling aktiv form)
+8995.0	indicator_(conditional)	(question mark [quarter-sized]: placed above a symbol to indicate the equivalent of the English present conditional form)  - Character (indicator)	operator (konditionalis)
+8996.0	indicator_(description_after_fact)	(description indicator + dot: placed above a symbol to indicate meanings equivalent to an English past participle, usually with an -ed or -en ending)  - Character (superimposed - indicator)	operator (värdering efter faktum)
